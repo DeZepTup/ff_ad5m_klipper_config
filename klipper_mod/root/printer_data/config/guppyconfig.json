@@ -46,12 +46,6 @@
           "id": "heater_bed"
         },
         {
-          "color": "blue",
-          "controllable": false,
-          "display_name": "TVOC Level",
-          "id": "temperature_sensor TVOC_Level"
-        },
-        {
           "color": "orange",
           "controllable": false,
           "display_name": "Load Cell",
