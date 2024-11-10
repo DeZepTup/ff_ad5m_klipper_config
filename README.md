@@ -27,3 +27,6 @@ HEATER=heater_bed TARGET=70 PID parameters: pid_Kp=74.843 pid_Ki=1.647 pid_Kd=85
 Appox: pid_Kp=73.92 pid_Ki=1.43 pid_Kd=973.00
 
 
+# TODO
+
+Calibrate all gcode
